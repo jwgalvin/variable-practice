@@ -9,3 +9,8 @@ num2 = 3.145
 #booleans below here
 history = true
 opinion = false
+
+#arrays here
+words = ["thoughts", "prayers", "bullshit"]
+numbers = [14, 67, 98734908278947]
+mixed = [234, "names"]
