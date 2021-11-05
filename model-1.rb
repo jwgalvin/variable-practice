@@ -5,3 +5,7 @@ string_2 = "less is more"
 #Floats and integers below here
 num1 = 3256
 num2 = 3.145
+
+#booleans below here
+history = true
+opinion = false
